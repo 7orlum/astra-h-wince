@@ -15,7 +15,7 @@ AstraCanGui::AstraCanGui(QGraphicsObject *wind, QObject *parent) :
 
     QTimer *generator = new QTimer(this);
     connect(generator, SIGNAL(timeout()), this, SLOT(generateMessage()));
-    generator->start(1000);
+    generator->start(2000);
 }
 
 void AstraCanGui::showTime()
