@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AstraCANGUI", "AstraCANGUI.vcproj", "{F6B5EDD1-A9CC-30B9-9983-0DB5125762BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6B5EDD1-A9CC-30B9-9983-0DB5125762BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F6B5EDD1-A9CC-30B9-9983-0DB5125762BA}.Debug|Win32.Build.0 = Debug|Win32
+		{F6B5EDD1-A9CC-30B9-9983-0DB5125762BA}.Release|Win32.ActiveCfg = Release|Win32
+		{F6B5EDD1-A9CC-30B9-9983-0DB5125762BA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

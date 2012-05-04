@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/AstraCANGUI/BCInfoText.qml</file>
+        <file>qml/AstraCANGUI/CloseButton.qml</file>
+        <file>qml/AstraCANGUI/ControlButton.qml</file>
+        <file>qml/AstraCANGUI/DisplayText.qml</file>
+        <file>qml/AstraCANGUI/EHUIcon.qml</file>
+        <file>qml/AstraCANGUI/EngineThermometerImage.qml</file>
+        <file>qml/AstraCANGUI/FuelImage.qml</file>
+        <file>qml/AstraCANGUI/Main.qml</file>
+        <file>qml/AstraCANGUI/MainText.qml</file>
+        <file>qml/AstraCANGUI/Menu.qml</file>
+        <file>qml/AstraCANGUI/MenuButton.qml</file>
+        <file>qml/AstraCANGUI/ModeButton.qml</file>
+        <file>qml/AstraCANGUI/NotifyImage.qml</file>
+        <file>qml/AstraCANGUI/NotifyText.qml</file>
+        <file>qml/AstraCANGUI/ThermometerImage.qml</file>
+        <file>qml/AstraCANGUI/TPIcon.qml</file>
+        <file>qml/AstraCANGUI/VerticalSpoiler.qml</file>
+        <file>qml/AstraCANGUI/images/car.png</file>
+        <file>qml/AstraCANGUI/images/car_all_doors_open.png</file>
+        <file>qml/AstraCANGUI/images/car_driver_door_open.png</file>
+        <file>qml/AstraCANGUI/images/car_driver_pass_doors_open.png</file>
+        <file>qml/AstraCANGUI/images/car_driver_rear_doors_open.png</file>
+        <file>qml/AstraCANGUI/images/car_pass_door_open.png</file>
+        <file>qml/AstraCANGUI/images/car_pass_rear_doors_open.png</file>
+        <file>qml/AstraCANGUI/images/car_rear_door_open.png</file>
+        <file>qml/AstraCANGUI/images/car_strobes_on.png</file>
+        <file>qml/AstraCANGUI/images/close_program.png</file>
+        <file>qml/AstraCANGUI/images/engine_thermometer.png</file>
+        <file>qml/AstraCANGUI/images/engine_thermometer_hot.png</file>
+        <file>qml/AstraCANGUI/images/fuel_range.png</file>
+        <file>qml/AstraCANGUI/images/handbrake.png</file>
+        <file>qml/AstraCANGUI/images/handbrake_old.png</file>
+        <file>qml/AstraCANGUI/images/handbrake2.png</file>
+        <file>qml/AstraCANGUI/images/hide_program.png</file>
+        <file>qml/AstraCANGUI/images/low_fuel_range.png</file>
+        <file>qml/AstraCANGUI/images/menu_close.png</file>
+        <file>qml/AstraCANGUI/images/settings_auto.png</file>
+        <file>qml/AstraCANGUI/images/settings_program.png</file>
+        <file>qml/AstraCANGUI/images/sign.png</file>
+        <file>qml/AstraCANGUI/images/thermometer_cold.png</file>
+        <file>qml/AstraCANGUI/images/thermometer_hot.png</file>
+        <file>qml/AstraCANGUI/MainPopupText.qml</file>
+    </qresource>
+</RCC>
