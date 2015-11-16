@@ -1,0 +1,1 @@
+The Android application for Astra-H CAN Adapter project
